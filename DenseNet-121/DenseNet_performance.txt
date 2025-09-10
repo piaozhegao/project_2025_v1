@@ -1,6 +1,0 @@
-AUROC: mean=0.6487, std=0.0712, 95% CI=(0.5049, 0.7778)
-Accuracy: mean=0.9572, std=0.0059, 95% CI=(0.946, 0.9678)
-Sensitivity: mean=0.3676, std=0.0954, 95% CI=(0.1905, 0.5518)
-Specificity: mean=0.9704, std=0.0049, 95% CI=(0.9597, 0.9795)
-Precision: mean=0.2175, std=0.0615, 95% CI=(0.1064, 0.3421)
-F1-score: mean=0.2706, std=0.069, 95% CI=(0.1408, 0.4)
